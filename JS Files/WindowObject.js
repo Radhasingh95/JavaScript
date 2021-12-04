@@ -1,4 +1,4 @@
-// DOM - Document Object Module 
+// DOM - Document Object Model 
 // let a = window; 
 let a = window.document; 
 // window.alert('Hello world');
